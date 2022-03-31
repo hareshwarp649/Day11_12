@@ -1,0 +1,48 @@
+{
+  "TypesOfRice": [
+    {
+      "name": "Basumati",
+      "weight": "8kg",
+      "price": "130"
+    },
+    {
+      "name": "Bullet02",
+      "weight": "8kg",
+      "price": "750"
+    },
+    {
+      "name": "Js41",
+      "price": "490",
+      "weight": "8kg"
+    }
+  ],
+  "TypesOfPulse": [
+    {
+      "name": "DesiGram",
+      "weight": "4kg",
+      "price": "81"
+    },
+    {
+      "name": "Green2323",
+      "weight": "12kg",
+      "price": "90"
+    },
+    {
+      "name": "B=23",
+      "weight": "9kg",
+      "price": "75"
+    }
+  ],
+  "TypesOfWheat": [
+    {
+      "name": "AA34",
+      "weight": "20kg",
+      "price": "64"
+    },
+    {
+      "name": "SoftWhite",
+      "weight": "15kg",
+      "price": "36"
+    }
+  ]
+}
