@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\bin\Debug\InventoryManagement1.exe.config
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\bin\Debug\InventoryManagement1.exe
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\bin\Debug\InventoryManagement1.pdb
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\obj\Debug\InventoryManagement1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\obj\Debug\InventoryManagement1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\obj\Debug\InventoryManagement1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\obj\Debug\InventoryManagement1.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\obj\Debug\InventoryManagement1.exe
+C:\Users\ADMIN\source\repos\day11_12\JsonInventoryManage1\InventoryManagement1\obj\Debug\InventoryManagement1.pdb
